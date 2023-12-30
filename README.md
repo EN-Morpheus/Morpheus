@@ -17,5 +17,3 @@
 
 
 ## Team Introduction
-
-</p>
