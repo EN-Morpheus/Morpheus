@@ -12,11 +12,24 @@
 <div style="text-align: left">
   
   ##  Index
-- [Project Introduction](#Project-Introduction)
-- [Team Introduction](#Team-Introduction)
+[Project Introduction](#Project-Introduction)
+[Team Introduction](#Team-Introduction)
+[Tech Stacks](#Stacks)
+[Main Function](#Main-Function)
 
 ## Project Introduction
 
 
 ## Team Introduction
+
+| Sangjun Cho | Hyeona Kim | Ohsung Kwon |
+|---|---|---|
+| [@Sangjun Cho](https://github.com/sangjun121) | [@Hyeona Kim](https://github.com/10Hyuna) | [@Ohsung Kwon](https://github.com/0722)
+| Sejong University, Department of Computer Engineering, 2nd year | Sejong University, Software Engineering, 2nd year | Sejong University, Department of Computer Engineering, 3nd year   
+| AI, Frontent | Backend | Frontend  
+
 </div>
+
+## Stacks
+
+## Main Function
