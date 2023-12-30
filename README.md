@@ -1,7 +1,7 @@
 # 💭 Morpheus README
 
 <center>
-  <img src="https://github.com/EN-Morpheus/Morpheus/assets/129165742/df926a45-0ef0-4199-a0cb-59c9619ea57f width="500" height="500")
+  <img src="https://github.com/EN-Morpheus/Morpheus/assets/129165742/ab043c14-2444-45aa-8049-03c63267c67e width="500" height="500")
   <H2>
     Morpheus is ...
   </H2>
