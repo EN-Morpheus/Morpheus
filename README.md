@@ -12,10 +12,10 @@
 <div style="text-align: left">
   
   ##  Index
-[Project Introduction](#Project-Introduction)
-[Team Introduction](#Team-Introduction)
-[Tech Stacks](#Stacks)
-[Main Function](#Main-Function)
+[Project Introduction](#Project-Introduction)<br>
+[Team Introduction](#Team-Introduction)<br>
+[Tech Stacks](#Stacks)<br>
+[Main Function](#Main-Function)<br>
 
 ## Project Introduction
 
