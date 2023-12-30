@@ -20,12 +20,3 @@
 
 ## Team Introduction
 </div>
-
-##  📄 Index
-- [Project Introduction](#Project-Introduction)
-- [Team Introduction](#Team-Introduction)
-
-## Project Introduction
-
-
-## Team Introduction
