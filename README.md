@@ -1,4 +1,4 @@
-# 💭 Morpheus README
+# Morpheus
 
 <p align="center">
   <img src="https://github.com/EN-Morpheus/Morpheus/assets/129165742/ab043c14-2444-45aa-8049-03c63267c67e width="500" height="500")
@@ -8,7 +8,7 @@
 </div>
 
 ##  📄 Index
--[Project Introduction](#Project-Introduction)
+- [Project Introduction](#Project-Introduction)
 - [Team Introduction](#Team-Introduction)
 
 ## Project Introduction
